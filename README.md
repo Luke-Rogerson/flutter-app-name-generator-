@@ -1,4 +1,4 @@
-# super_cool_thingy
+# Super cool app name generator
 
 A new Flutter project.
 
